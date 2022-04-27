@@ -11,6 +11,9 @@ using System.Threading.Tasks;
 
 namespace applicationRepo
 {
+    /// <summary>
+    /// startup class includes application configuration files
+    /// </summary>
     public class Startup
     {
         public Startup(IConfiguration configuration)
